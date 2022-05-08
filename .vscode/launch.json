@@ -1,0 +1,108 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "book_study",
+      "cwd": "book_study",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "book_study (profile mode)",
+      "cwd": "book_study",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "book_study (release mode)",
+      "cwd": "book_study",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "book_study_p104",
+      "cwd": "book_study_p104",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "book_study_p104 (profile mode)",
+      "cwd": "book_study_p104",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "book_study_p104 (release mode)",
+      "cwd": "book_study_p104",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "book_study_p116",
+      "cwd": "book_study_p116",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "book_study_p116 (profile mode)",
+      "cwd": "book_study_p116",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "book_study_p116 (release mode)",
+      "cwd": "book_study_p116",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "meterial_flutter_app",
+      "cwd": "meterial_flutter_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "meterial_flutter_app (profile mode)",
+      "cwd": "meterial_flutter_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "meterial_flutter_app (release mode)",
+      "cwd": "meterial_flutter_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "flutter_carrot_market-master",
+      "cwd": "carrot_clone\\flutter_carrot_market-master",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_carrot_market-master (profile mode)",
+      "cwd": "carrot_clone\\flutter_carrot_market-master",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "flutter_carrot_market-master (release mode)",
+      "cwd": "carrot_clone\\flutter_carrot_market-master",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
